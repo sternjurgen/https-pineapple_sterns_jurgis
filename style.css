@@ -1,0 +1,465 @@
+body {
+  /*width:900px;*/
+  background-color: white;
+  position: absolute;
+  width: 680px;
+  height: 1080px;
+  left: 0px;
+  top: 0px;
+  background: linear-gradient(180deg, #FFFFFF 0%, #F2F5FA 100%);
+  
+}
+
+img.pineapple1 {
+position: absolute;
+width: 25px;
+height: 40px;
+left: 100px;
+top: 100px;
+}
+p.pineapple2 {
+  position: absolute;
+  width: 78px;
+  height: 16px;
+  left: 140px;
+  top: 120px;
+}
+
+a.link1 {
+  position: absolute;
+  width: 42px;
+  height: 26px;
+  left: 331px;
+  top: 114px;
+
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+/* identical to box height, or 162% */
+  color: #6A707B;
+}
+
+
+a.link2 {
+  position: absolute;
+  width: 91px;
+  height: 26px;
+  left: 403px;
+  top: 114px;
+
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+/* identical to box height, or 162% */
+  color: #6A707B;
+}
+
+a.link3 {
+  position: absolute;
+  width: 56px;
+  height: 26px;
+  left: 524px;
+  top: 114px;
+
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+/* identical to box height, or 162% */
+  color: #6A707B;
+}
+
+h1.subscribe_stils {
+  position: absolute;
+  width: 399px;
+  height: 44px;
+  left: 140px;
+  top: 374px;
+
+  font-family: Georgia;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 44px;
+/* identical to box height, or 137% */
+  color: #131821;
+}
+
+p.h3apaksa {
+  position: absolute;
+  width: 400px;
+  height: 56px;
+  left: 140px;
+  top: 433px;
+
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 28px;
+/* or 175% */
+  color: #6A707B;
+}
+
+input.epasts1 {
+  position: absolute;
+  width: 663px;
+  height: 70px;
+  left: 100px;
+  top: 539px;
+  background: #FFFFFF;
+  border: 1px solid #E3E3E4;
+  box-sizing: border-box;
+}
+
+input.invalid {
+  border: 1px solid red;
+}
+div.error-hint {
+  color: red;
+}
+
+
+  
+
+button.poga3 {
+  padding: 5px;
+  font-size: 14px;
+  background: none;
+  border: 1px solid blue;
+  border-radius: 10px;
+  transition: all 0.7s;
+  cursor: pointer;
+  
+  Top: 760px;
+  Left: 300px;
+  position: absolute;
+  color:#6A707B;
+  background-color: #F2F5FA;
+  border:#E3E3E4;
+  
+}
+
+button.poga3:hover{
+  background-color: #4066A5;
+  border: #4066A5;
+  color: #F2F5FA;
+}
+
+div.hidden{
+  display: none;
+  
+  
+}
+
+div.thank-you{
+Font-family: Georgia;
+Font-style: Regular;
+Font-size: 32px;
+Align: Left;
+Vertical-align: Top;
+}
+
+input.checkbox_noteikumi {
+  position: absolute;
+  width: 26px;
+  height: 26px;
+  left: 140px;
+  top: 663px;
+  background: #4066A5;
+  border-radius: 3px;
+}
+
+p.teikums_agree {
+  position: absolute;
+  width: 359px;
+  height: 28px;
+  left: 181px;
+  top: 662px;
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 28px;
+/* identical to box height, or 175% */
+  color: #6A707B;
+}
+
+
+hr.linija{
+  position: absolute;
+  width: 400px;
+  height: 1px;
+  left: 140px;
+  top: 740px;
+  background: #E3E3E4;
+} 
+
+img.ananass {
+position: absolute;
+width: 1620px;
+height: 1080px;
+left: 680px;
+top: 0px;
+background: url(17888724.jpg);
+}
+
+
+form:input.poga1 {
+  position: absolute;
+  background: white;
+  border-style: solid;
+  
+  right:1537px;
+  top: 539px;
+  bottom: 471px;
+  border: 2px; 
+  border: solid;
+  border-color: #E3E3E4;
+
+
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 28px 40px 28px 19px;
+  text-decoration: none;
+
+/*līdzīgi kā sociālajām ikonam uztaisīt robežu apkārt ar margin, skatīt izmērus, novietojumu, un tad ar hover, top 28, right 40, bottom 28, left 19 bet no lapas malas līdz bildei 580 (580 +19)  */
+  
+}
+form:input.poga1:hover {
+  color: #4066A5;
+  background-color: #4066A5;
+  
+}
+
+
+
+  
+
+
+
+
+img.Facebook_border {
+
+  position: absolute;
+  left: 12.34%;
+  right: 87.24%;
+  top: 74.63%;
+  bottom: 23.89%;
+  opacity: 0.3;
+
+  transition: all 0.7s;
+  cursor: pointer;
+
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+  color:#E3E3E4;
+  background-color: #F2F5FA; 
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 19px;
+  margin-right: 19px;
+  padding: 14px 16px; 
+  border-radius: 15px 19px 15px 19px;
+  text-decoration: none;
+  
+  border-style: solid;
+  width: 46px;
+  height: 46px;
+  left: 137px;
+  top: 791px;
+  border: 2px; 
+  border: solid;
+  border-color: #E3E3E4;
+  }
+
+
+img.Facebook_border:hover {
+  color: #4066A5;
+  background-color: #4066A5 ;
+  }
+
+
+/*
+li.hori a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none
+}
+
+li.hori a:hover {
+  background-color: burlywood ;
+  color: black ;
+*/
+
+
+
+/* img.FB_logo {
+  position: absolute;
+  width: 46px;
+  height: 46px;
+  left: 218px;
+  top: 791px;
+  border: 2px; 
+  border: solid;
+  border-color: #E3E3E4;
+  box-sizing: border-box;
+  } */
+
+
+
+img.Instagram_border {
+  position: absolute;
+  left: 15.57%;
+  right: 83.59%;
+  top: 74.63%;
+  bottom: 23.89%;
+  opacity: 0.3;
+
+  transition: all 0.7s;
+  cursor: pointer;
+
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+
+  color:#E3E3E4;
+  background-color: #F2F5FA; 
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 19px;
+  margin-right: 19px;
+  padding: 14px 16px; 
+  border-radius: 15px 19px 15px 19px;
+  text-decoration: none;
+  border-style: solid;
+
+  position: absolute;
+  width: 46px;
+  height: 46px;
+  left: 230px;
+  top: 791px;
+  border: 2px solid;
+  border-color: #E3E3E4;
+}
+img.Instagram_border:hover {
+  color: #4066A5;
+  background-color: #4066A5;
+  }
+
+
+img.Twitter_border {
+  position: absolute;
+  left: 19.01%;
+  right: 80.16%;
+  top: 74.81%;
+  bottom: 23.98%;
+  background: #131821;
+  opacity: 0.3;
+
+  transition: all 0.7s;
+  cursor: pointer;
+
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+  color:#E3E3E4;
+  background-color: #F2F5FA; 
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 19px;
+  margin-right: 19px;
+  padding: 14px 16px; 
+  border-radius: 15px 19px 15px 19px;
+  text-decoration: none;
+  border-style: solid;
+
+  position: absolute;
+  width: 46px;
+  height: 46px;
+  left: 320px;
+  top: 791px;
+  border: 2px solid;
+  border-color: #E3E3E4;
+}
+
+img.Twitter_border:hover {
+  color: #4066A5;
+  background-color: #4066A5;
+  }
+
+
+
+
+img.Youtube_border {
+  position: absolute;
+  left: 22.45%;
+  right: 76.72%;
+  top: 74.81%;
+  bottom: 24.17%;
+  background: #131821;
+  opacity: 0.3;
+
+  transition: all 0.7s;
+  cursor: pointer;
+
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+  color:#E3E3E4;
+  background-color: #F2F5FA; 
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 19px;
+  margin-right: 19px;
+  padding: 14px 16px; 
+  border-radius: 15px 19px 15px 19px;
+  text-decoration: none;
+  border-style: solid;
+  
+  position: absolute;
+  width: 46px;
+  height: 46px;
+  left: 410px;
+  top: 791px;
+  border: 2px solid;
+  bodrer-color: #E2E3E4;
+
+}
+
+img.Youtube_border:hover {
+  color: #4066A5;
+  background-color: #4066A5;
+  }
+
+
+
+
+
+
+
+
